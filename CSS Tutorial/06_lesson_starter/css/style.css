@@ -11,5 +11,10 @@ button {
 } */
 p {
   text-decoration: lowercase;
+  /* text-decoration : Kelimenin altının , üstünün vs. çizili olup olmayacağını belirler./*
   /* (Kelimelerin bütün harflerinin küçük olmasını sağlar.) */
 }
+/* p {
+  text-decoration: uppercase;
+  (Kelimelerin bütün harflerinin büyük olmasını sağlar.) 
+} */
