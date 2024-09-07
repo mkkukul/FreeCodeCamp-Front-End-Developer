@@ -11,4 +11,5 @@ button {
 } */
 p {
   text-decoration: lowercase;
+  /* (Kelimelerin bütün harflerinin küçük olmasını sağlar.) */
 }
