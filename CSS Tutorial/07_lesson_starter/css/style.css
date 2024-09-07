@@ -5,6 +5,8 @@ body {
   font-size: 2rem;
   font-family: "Roboto", sans-serif;
 }
+main {
+}
 a {
   text-decoration: none;
   cursor: not-allowed;
@@ -16,7 +18,9 @@ a:visited {
 a:hover,
 a:focus {
   /* color: dodgerblue; */
-  opacity: 0.9;
+  /* opacity: 0.9; */
+  color: hsl(207, %44, %49, 0.8);
+  backgroud
 }
 a:active {
   color: red;
