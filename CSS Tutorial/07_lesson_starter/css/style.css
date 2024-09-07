@@ -16,3 +16,6 @@ a:visited {
 a:hover {
   color: dodgerblue;
 }
+a:active {
+  color: red;
+}
