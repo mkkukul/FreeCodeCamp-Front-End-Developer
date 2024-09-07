@@ -6,6 +6,9 @@ body {
 button {
   font: inherit;
 } */
-p {
+/* p {
   text-decoration: none;
+} */
+p {
+  text-decoration: lowercase;
 }
