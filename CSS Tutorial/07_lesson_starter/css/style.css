@@ -13,8 +13,9 @@ a {
 a:visited {
   color: purple;
 }
-a:hover {
-  color: dodgerblue;
+a:hover,
+a:focus {
+  /* color: dodgerblue; */
 }
 a:active {
   color: red;
