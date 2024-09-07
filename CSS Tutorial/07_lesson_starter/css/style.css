@@ -10,3 +10,6 @@ a {
   cursor: not-allowed;
   color: #000;
 }
+a:visited {
+  color: purple;
+}
