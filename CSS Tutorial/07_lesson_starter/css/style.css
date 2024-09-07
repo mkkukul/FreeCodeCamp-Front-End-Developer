@@ -16,6 +16,7 @@ a:visited {
 a:hover,
 a:focus {
   /* color: dodgerblue; */
+  opacity: 0.9;
 }
 a:active {
   color: red;
